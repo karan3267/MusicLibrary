@@ -1,5 +1,5 @@
 # MusicLibrary
-Personal Project
+Personal Project.
 Users and Artists can sign up.
 Artists can release new songs.
 User can search for song, browse songs of an artist and play the song
